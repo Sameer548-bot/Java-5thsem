@@ -1,5 +1,3 @@
-
-
 class Student {
     int rollNumber;
     String name;
